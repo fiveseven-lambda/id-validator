@@ -1,0 +1,18 @@
+main {
+ 	max-width: 1024px;
+    margin: auto;
+}
+
+div.input {
+    display: flex;
+}
+
+input {
+    flex: 1;
+    padding: 1em;
+    font-size: large;
+}
+
+div.result {
+    font-size: large;
+}
